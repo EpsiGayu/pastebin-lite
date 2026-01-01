@@ -10,7 +10,7 @@ This project is built with Node.js and MongoDB and deployed on Vercel.
 
 ## Deployed Application
 
-- **Live URL:** https://your-app.vercel.app  
+- **Live URL:** https://pastebin-lite-git-main-epsigayus-projects.vercel.app (This URL is not working properly)  
 - **GitHub Repository:** https://github.com/EpsiGayu/pastebin-lite
 
 ---
